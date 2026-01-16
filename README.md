@@ -70,6 +70,17 @@ where ξ ~ N(0, σ²) represents Gaussian thermal noise with scale σ = 0.05, an
 
 This thermodynamic approach draws inspiration from simulated annealing and provides superior generalization in high-chaos environments where exact restoration may lead to brittleness.
 
+
+##  Quick Start
+
+### Installation
+```bash
+git clone [https://github.com/Devanik21/BSHDER-Architecture.git](https://github.com/Devanik21/BSHDER-Architecture.git)
+cd BSHDER-Architecture
+pip install -r requirements.txt
+
+```
+
 ## 4. Experimental Validation
 
 ### 4.1 Controlled Experiments on Standard Benchmarks
