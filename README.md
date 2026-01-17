@@ -594,6 +594,55 @@ Legend: ■ = Functional  ░ = Non-functional
 
 ---
 
+
+# Appendix ( Visualisation Results)
+
+---
+<img width="850" height="470" alt="download" src="https://github.com/user-attachments/assets/104909d4-14fa-4ddc-ae8a-95aeb04f1e52" />
+
+---
+<img width="850" height="547" alt="download" src="https://github.com/user-attachments/assets/96c4971a-1585-49a5-a126-abb6e94543db" />
+
+---
+
+<img width="841" height="547" alt="download" src="https://github.com/user-attachments/assets/84e80e98-84b9-4a29-868f-f008d8ecec7b" />
+
+---
+
+
+<img width="841" height="547" alt="download" src="https://github.com/user-attachments/assets/85ddd16f-14ae-4309-bb46-bbce710a8a09" />
+
+---
+<img width="850" height="547" alt="download" src="https://github.com/user-attachments/assets/511a2f20-72d6-45b0-a6cc-a7f722cfd02f" />
+
+
+---
+<img width="841" height="547" alt="download" src="https://github.com/user-attachments/assets/bedd2177-df46-4fa7-950f-338350b92740" />
+
+---
+<img width="841" height="547" alt="download" src="https://github.com/user-attachments/assets/9e788b4f-fca1-475b-9630-75ccba97fc4b" />
+
+
+---
+<img width="881" height="547" alt="download" src="https://github.com/user-attachments/assets/c55d0bb7-f804-4b3e-8b28-592b9c24aefc" />
+
+
+
+---
+
+<img width="855" height="547" alt="download" src="https://github.com/user-attachments/assets/3bdf27d7-79b8-40ac-92de-86e9d85d2e9d" />
+
+---
+
+
+<img width="841" height="547" alt="download" src="https://github.com/user-attachments/assets/9dcf2ce2-8d26-48a0-87a8-fd874216266e" />
+
+---
+
+
+
+
+
 **Last Updated:** January 2026  
 **Version:** 1.0.0  
 **Status:** Active Development
